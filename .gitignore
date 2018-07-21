@@ -1,11 +1,3 @@
-#directiories#
-/build/
 target/
-#files#
-*.class
-*.jar
-*.war
-/.idea
+.idea
 *.iml
-/target
-*/.idea/*

@@ -14,7 +14,7 @@ import static junit.framework.TestCase.assertTrue;
 
 public class HomeworkTest {
     @Test
-    public void testcountNumbers() {
+    public void testCountNumbers() {
         Double[] tab = {-0.01, 2.3, -0.01, 7.8, 2.3, 2.3};
 
         Map<Double,Integer> res = Homework.countNumbers(tab);
